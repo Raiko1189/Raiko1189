@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Reiko Wakbeka and I'm a Software Engineering , from Adama Science And Technology University</p>
+<p align="left">My name is Reiko Wakbeka, and I am a Software Engineering student at Adama Science and Technology University.</p>
 
 ###
 
